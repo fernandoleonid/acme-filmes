@@ -1,3 +1,3 @@
 # Rubens Luiz Lobo de Almeida - Turma DS2BIT-A
 
-https://github.com/fernandoleonid/acme-filmes/blob/main/DS2BIT-A/RUBENS%20LUIZ%20LOBO%20DE%20ALMEIDA/README.md
+https://www.figma.com/file/cMH5yUSyi4nZqck18XG8S8/Cat%C3%A1logo-Filmes?type=design&node-id=6%3A12&mode=design&t=nFyQXdtyOMLhAjfA-1
