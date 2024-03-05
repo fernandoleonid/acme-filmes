@@ -7,4 +7,4 @@ Protótipo | FRONT-END | Landing Page | CRM
 
 [link1]:https://www.figma.com/file/IVkUSYyIbJwseQNZObVfnN/Untitled?type=design&node-id=0%3A1&mode=design&t=xQ0Iu0nwyA1CBgGB-1
 [link2]: https://github.com/analu-a/acme-front
-[link3]: https://fernandoleonid.github.io/strange-2022/
+[link3]: analu-a.github.io/acme-front/
