@@ -1,6 +1,6 @@
 # ACME - FILMES
 
-Protótipo | FRONT-END | Landing Page | CRM
+Protótipo | FRONT-END | Landing Page | CMS
 ----------|-----------|--------------|-----
 [Figma][link1] | [projeto][link2] | [link][link3] | [link][link3] 
 
