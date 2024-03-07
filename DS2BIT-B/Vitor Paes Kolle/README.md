@@ -2,7 +2,7 @@
 
 Protótipo | FRONT-END | Landing Page | CRM
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [link][link3] | [link][link3] 
+[Figma][link1] | [projeto][link2] | [link][link3] | [link][link] 
 
 
 [link1]: https://www.figma.com/file/7FmQNmHHWKbSr8mfo1xwtq/Acme-Filmes?type=design&node-id=0-1&mode=design&t=Umt8bPDsGvA6HGZu-0
