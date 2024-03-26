@@ -40,5 +40,5 @@ Protótipo | FRONT-END | Landing Page | CSM
 
 
 [link1]: https://www.figma.com/file/4WbdlX6PW7WOxbcJKdLhrw/Untitled?type=design&node-id=0%3A1&mode=design&t=TIdW5RBV8m7pxklg-1
-[link2]: https://github.com/AliceZeurgo/ACME-FRONT-
+[link2]: https://github.com/AliceZeurgo/AcmeFront
 [link3]: https://alicezeurgo.github.io/ACME-FRONT-/
