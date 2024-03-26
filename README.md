@@ -34,6 +34,10 @@ Níveis | Desempenho | Nota
 02 | Atingiu todos os 1 critérios críticos | 10
 01 | Não atingiu nenhum critério crítico e desejavel | 0
 
+---
+
+## Exemplo de links
+
 Protótipo | FRONT-END | Landing Page | CMS
 ----------|-----------|--------------|-----
 [Figma][link1] | [projeto][link2] | [gitPreview][link3] | [link][link3] 
