@@ -4,7 +4,7 @@
 
 Protótipo | FRONT-END | Landing Page | CRM
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [link][link3] | [link][link3] 
+[Figma][link1] | [projeto][link2] | [link][link3]
 
 
 [link1]: https://www.figma.com/file/VdGXscqzzSu560PdgEABOh/Projeto3Sem---FrontEnd?type=design&node-id=14%3A19&mode=design&t=ovSsSvJnz17CPEge-1
