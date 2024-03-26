@@ -1,5 +1,3 @@
-# Luiz Henrique Vidal Araujo
-
 # ACME - FILMES
 
 ## Critérios
@@ -34,17 +32,15 @@ Níveis | Desempenho | Nota
 04 | Atingiu todos os 3 critérios críticos | 30
 03 | Atingiu todos os 2 critérios críticos | 20
 02 | Atingiu todos os 1 critérios críticos | 10
-05 | Não atingiu nenhum critério crítico e desejavel | 0
+01 | Não atingiu nenhum critério crítico e desejavel | 0
 
 ---
 ## Exemplo dos links para entrega
-
 Protótipo | FRONT-END | Landing Page | CMS
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [link][link3] | [link][link4] 
+[Figma][link1] | [projeto][link2] | [link][link3] | [link][link3] 
 
 
-[link1]: https://www.figma.com/file/BJ2qhVMNpKTvJdOGrDxrxf/Acme-Filmes?type=design&node-id=0%3A1&mode=design&t=PAYsGL4dEoxsqIyQ-1
-[link2]: https://github.com/LUIZHVA02/Back-II-Leonid/tree/main/Front-acme
-[link3]: https://github.com/LUIZHVA02/Back-II-Leonid/tree/main/Front-acme/landing_page
-[link4]: https://github.com/LUIZHVA02/Back-II-Leonid/tree/main/Front-acme/cms
+[link1]: https://www.figma.com/file/EuecfEkI8BFCzR4eRJIbb6/lima-2022-strange-youtube
+[link2]: https://github.com/fernandoleonid/strange-2022
+[link3]: https://fernandoleonid.github.io/strange-2022/****
