@@ -35,12 +35,12 @@ Níveis | Desempenho | Nota
 01 | Não atingiu nenhum critério crítico e desejavel | 0
 
 ---
-## Exemplo dos links para entrega
-Protótipo | FRONT-END | Landing Page | CMS
+Protótipo | GitHub | Landing Page | CMS
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [link][link3] | [link][link3] 
+[Figma][link1] | [projeto][link2] | [link][link3] | [link][link4] 
 
 
-[link1]: https://www.figma.com/file/EuecfEkI8BFCzR4eRJIbb6/lima-2022-strange-youtube
-[link2]: https://github.com/fernandoleonid/strange-2022
-[link3]: https://fernandoleonid.github.io/strange-2022/****
+[link1]: https://www.figma.com/file/IVkUSYyIbJwseQNZObVfnN/ACME-filmes?type=design&node-id=0%3A1&mode=design&t=7M99oa4OniPppWoM-1
+[link2]: https://github.com/analu-a/acme-front
+[link3]: analu-a.github.io/acme-front/src
+[link4]:#
