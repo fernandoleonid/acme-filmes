@@ -32,7 +32,7 @@ Níveis | Desempenho | Nota
 04 | Atingiu todos os 3 critérios críticos | 30
 03 | Atingiu todos os 2 critérios críticos | 20
 02 | Atingiu todos os 1 critérios críticos | 10
-05 | Não atingiu nenhum critério crítico e desejavel | 0
+01 | Não atingiu nenhum critério crítico e desejavel | 0
 
 ---
 ## Exemplo dos links para entrega
