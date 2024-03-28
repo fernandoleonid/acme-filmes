@@ -8,6 +8,5 @@ Protótipo | FRONT-END | Landing Page | CRM
 [link1]: https://www.figma.com/file/7FmQNmHHWKbSr8mfo1xwtq/Acme-Filmes?type=design&node-id=0-1&mode=design&t=Umt8bPDsGvA6HGZu-0
 [link2]: https://github.com/vitorkolle/acme-filmes-front
 [link3]: https://vitorkolle.github.io/acme-filmes-front/
-[link4]: https://vitorkolle.github.io/acme-filmes-cms/
-
+[link4]: https://github.com/vitorkolle/acme-filmes-cms.git
 
