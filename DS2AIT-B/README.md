@@ -34,17 +34,11 @@ Níveis | Desempenho | Nota
 02 | Atingiu todos os 1 critérios críticos | 10
 01 | Não atingiu nenhum critério crítico e desejavel | 0
 
----
-
-
-Protótipo | FRONT-END | Landing Page | CRM
+Protótipo | FRONT-END | Landing Page | CSM
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [link][link3] | [link][link4] 
+[Figma][link1] | [projeto][link2] | [gitPreview][link3] | [link][link3] 
 
 
-[link1]: https://www.figma.com/file/7FmQNmHHWKbSr8mfo1xwtq/Acme-Filmes?type=design&node-id=0-1&mode=design&t=Umt8bPDsGvA6HGZu-0
-[link2]: https://github.com/vitorkolle/acme-filmes-front
-[link3]: https://vitorkolle.github.io/acme-filmes-front/
-[link4]: https://github.com/vitorkolle/acme-filmes-cms.git
-
-
+[link1]: https://www.figma.com/file/4WbdlX6PW7WOxbcJKdLhrw/Untitled?type=design&node-id=0%3A1&mode=design&t=TIdW5RBV8m7pxklg-1
+[link2]: https://github.com/AliceZeurgo/AcmeFront
+[link3]: https://alicezeurgo.github.io/ACME-FRONT-/
