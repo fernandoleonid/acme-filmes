@@ -1,4 +1,4 @@
-# ACME - FILMES
+# Nathalia Ventura Kawakami 
 
 ## Critérios
 - [ ] ```Todas as telas prototipadas foram criadas conforme figma?```
@@ -34,11 +34,16 @@ Níveis | Desempenho | Nota
 02 | Atingiu todos os 1 critérios críticos | 10
 01 | Não atingiu nenhum critério crítico e desejavel | 0
 
-Protótipo | FRONT-END | Landing Page | CSM
+---
+
+## Exemplo de links
+
+Protótipo | FRONT-END | Landing Page | CMS
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [gitPreview][link3] | [link][link3] 
+[Figma][link1] | [FRONT][link2] | [gitPage][link3] | [CMS][link4] 
 
 
-[link1]: https://www.figma.com/file/4WbdlX6PW7WOxbcJKdLhrw/Untitled?type=design&node-id=0%3A1&mode=design&t=TIdW5RBV8m7pxklg-1
-[link2]: https://github.com/AliceZeurgo/AcmeFront
-[link3]: https://alicezeurgo.github.io/ACME-FRONT-/
+[link1]: https://www.figma.com/file/sqjzHmzyLImPFMXegIoAHd/acme?type=design&node-id=1%3A52&mode=design&t=oAvGVc9KHH91LOnf-1
+[link2]: https://github.com/vkawaka/acme-filmes-front.git
+[link3]: https://vkawaka.github.io/acme-filmes-front/
+[link4]: https://github.com/vkawaka/cms-acme.git

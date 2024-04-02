@@ -1,4 +1,4 @@
-# ACME - FILMES
+# Ana Luiza A. Morais
 
 ## Critérios
 - [ ] ```Todas as telas prototipadas foram criadas conforme figma?```
@@ -34,11 +34,14 @@ Níveis | Desempenho | Nota
 02 | Atingiu todos os 1 critérios críticos | 10
 01 | Não atingiu nenhum critério crítico e desejavel | 0
 
-Protótipo | FRONT-END | Landing Page | CSM
+---
+Protótipo | GitHub | Landing Page | CMS
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [gitPreview][link3] | [link][link3] 
+[Figma][link1] | [projeto][link2] | [link][link3] | [link][link4] 
 
 
-[link1]: https://www.figma.com/file/4WbdlX6PW7WOxbcJKdLhrw/Untitled?type=design&node-id=0%3A1&mode=design&t=TIdW5RBV8m7pxklg-1
-[link2]: https://github.com/AliceZeurgo/AcmeFront
-[link3]: https://alicezeurgo.github.io/ACME-FRONT-/
+[link1]: https://www.figma.com/file/IVkUSYyIbJwseQNZObVfnN/ACME-filmes?type=design&node-id=0%3A1&mode=design&t=7M99oa4OniPppWoM-1
+[link2]: https://github.com/analu-a/acme-front
+[link3]: analu-a.github.io/acme-front/src
+[link4]:#
+

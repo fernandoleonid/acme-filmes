@@ -1,3 +1,5 @@
+# Luiz Henrique Vidal Araujo
+
 # ACME - FILMES
 
 ## Critérios
@@ -19,7 +21,7 @@
 
 ---
 
-## Tabela de níveis de desempenho 2
+## Tabela de níveis de desempenho
 Níveis | Desempenho | Nota
 -------|------------|------
 11 | Atingiu todos os 5 critérios críticos e 8 desejáveis | 100
@@ -32,13 +34,17 @@ Níveis | Desempenho | Nota
 04 | Atingiu todos os 3 critérios críticos | 30
 03 | Atingiu todos os 2 critérios críticos | 20
 02 | Atingiu todos os 1 critérios críticos | 10
-01 | Não atingiu nenhum critério crítico e desejavel | 0
+05 | Não atingiu nenhum critério crítico e desejavel | 0
 
-Protótipo | FRONT-END | Landing Page | CSM
+---
+## Exemplo dos links para entrega
+
+Protótipo | FRONT-END | Landing Page | CMS
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [gitPreview][link3] | [link][link3] 
+[Figma][link1] | [projeto][link2] | [link][link3] | [link][link4] 
 
 
-[link1]: https://www.figma.com/file/4WbdlX6PW7WOxbcJKdLhrw/Untitled?type=design&node-id=0%3A1&mode=design&t=TIdW5RBV8m7pxklg-1
-[link2]: https://github.com/AliceZeurgo/AcmeFront
-[link3]: https://alicezeurgo.github.io/ACME-FRONT-/
+[link1]: https://www.figma.com/file/BJ2qhVMNpKTvJdOGrDxrxf/Acme-Filmes?type=design&node-id=0%3A1&mode=design&t=PAYsGL4dEoxsqIyQ-1
+[link2]: https://github.com/LUIZHVA02/Back-II-Leonid/tree/main/Front-acme
+[link3]: https://github.com/LUIZHVA02/Back-II-Leonid/tree/main/Front-acme/landing_page
+[link4]: https://github.com/LUIZHVA02/Back-II-Leonid/tree/main/Front-acme/cms

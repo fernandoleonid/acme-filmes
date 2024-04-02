@@ -1,4 +1,4 @@
-# ACME - FILMES
+# Alice Zeurgo
 
 ## Critérios
 - [ ] ```Todas as telas prototipadas foram criadas conforme figma?```
@@ -34,11 +34,15 @@ Níveis | Desempenho | Nota
 02 | Atingiu todos os 1 critérios críticos | 10
 01 | Não atingiu nenhum critério crítico e desejavel | 0
 
-Protótipo | FRONT-END | Landing Page | CSM
+---
+
+## Exemplo de links
+
+Protótipo | FRONT-END | Landing Page | CMS
 ----------|-----------|--------------|-----
 [Figma][link1] | [projeto][link2] | [gitPreview][link3] | [link][link3] 
 
 
-[link1]: https://www.figma.com/file/4WbdlX6PW7WOxbcJKdLhrw/Untitled?type=design&node-id=0%3A1&mode=design&t=TIdW5RBV8m7pxklg-1
+[link1]: https://www.figma.com/file/4WbdlX6PW7WOxbcJKdLhrw/Untitled?type=design&node-id=0%3A1&mode=design&t=NyfztpjuZN696cR6-1
 [link2]: https://github.com/AliceZeurgo/AcmeFront
-[link3]: https://alicezeurgo.github.io/ACME-FRONT-/
+[link3]: https://alicezeurgo.github.io/AcmeFront/

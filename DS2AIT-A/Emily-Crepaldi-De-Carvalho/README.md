@@ -1,4 +1,4 @@
-# ACME - FILMES
+# Emily Crepaldi de Carvalho
 
 ## Critérios
 - [ ] ```Todas as telas prototipadas foram criadas conforme figma?```
@@ -19,7 +19,7 @@
 
 ---
 
-## Tabela de níveis de desempenho 2
+## Tabela de níveis de desempenho
 Níveis | Desempenho | Nota
 -------|------------|------
 11 | Atingiu todos os 5 critérios críticos e 8 desejáveis | 100
@@ -32,13 +32,14 @@ Níveis | Desempenho | Nota
 04 | Atingiu todos os 3 critérios críticos | 30
 03 | Atingiu todos os 2 critérios críticos | 20
 02 | Atingiu todos os 1 critérios críticos | 10
-01 | Não atingiu nenhum critério crítico e desejavel | 0
+05 | Não atingiu nenhum critério crítico e desejavel | 0
 
-Protótipo | FRONT-END | Landing Page | CSM
+
+Protótipo | FRONT-END | Landing Page | CRM
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [gitPreview][link3] | [link][link3] 
+[Figma][link1] | [projeto][link2] | [link][link3] | [link][link3] 
 
 
-[link1]: https://www.figma.com/file/4WbdlX6PW7WOxbcJKdLhrw/Untitled?type=design&node-id=0%3A1&mode=design&t=TIdW5RBV8m7pxklg-1
-[link2]: https://github.com/AliceZeurgo/AcmeFront
-[link3]: https://alicezeurgo.github.io/ACME-FRONT-/
+[link1]: https://www.figma.com/file/euIN9hKG0VUDKuW1uaTlbU/Acme-Filmes?type=design&node-id=35-316&mode=design&t=zK3I1jNG3xKySQog-0
+[link2]: https://github.com/h4nniton/acme-filmes-front
+[link3]: https://h4nniton.github.io/acme-filmes-front/
