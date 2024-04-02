@@ -1,5 +1,6 @@
 # ACME - FILMES
 
+=======
 ## Critérios
 - [ ] ```Todas as telas prototipadas foram criadas conforme figma?```
 - [ ] Criou pastas para separar os diversos tipos de arquivos?
