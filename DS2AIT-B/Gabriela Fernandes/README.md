@@ -13,6 +13,8 @@
 - [x] Foi feito o deploy do projeto no GitHub Pages e outra plataforma?
 - [x] Entregou o projeto prazo estipulado?
 
+<hr>
+
 Protótipo | FRONT-END | Landing Page | CMS
 ----------|-----------|--------------|-----
 [figma](https://www.figma.com/design/NaWa8mFYwjDYjS7yb9lGja/acme_filmes?node-id=0-1&t=zd4ksvOTILUgWbbG-0) | [projeto](https://github.com/gabfernandes8/acme_filmes) | [home](https://gabfernandes8.github.io/acme_filmes/frontend/viewer/src/assets/pages/home.html) | [cms](https://gabfernandes8.github.io/acme_filmes/frontend/viewer/src/assets/pages/cms_filme.html)
