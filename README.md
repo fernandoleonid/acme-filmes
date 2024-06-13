@@ -1,5 +1,6 @@
 # ACME - FILMES
 
+=======
 ## Critérios
 - [ ] ```Todas as telas prototipadas foram criadas conforme figma?```
 - [ ] Criou pastas para separar os diversos tipos de arquivos?
@@ -19,7 +20,7 @@
 
 ---
 
-## Tabela de níveis de desempenho
+## Tabela de níveis de desempenho 2
 Níveis | Desempenho | Nota
 -------|------------|------
 11 | Atingiu todos os 5 critérios críticos e 8 desejáveis | 100
@@ -32,15 +33,17 @@ Níveis | Desempenho | Nota
 04 | Atingiu todos os 3 critérios críticos | 30
 03 | Atingiu todos os 2 critérios críticos | 20
 02 | Atingiu todos os 1 critérios críticos | 10
-05 | Não atingiu nenhum critério crítico e desejavel | 0
+01 | Não atingiu nenhum critério crítico e desejavel | 0
 
 ---
-## Exemplo dos links para entrega
+
+## Exemplo de links
+
 Protótipo | FRONT-END | Landing Page | CMS
 ----------|-----------|--------------|-----
-[Figma][link1] | [projeto][link2] | [link][link3] | [link][link3] 
+[Figma][link1] | [projeto][link2] | [gitPreview][link3] | [link][link3] 
 
 
-[link1]: https://www.figma.com/file/EuecfEkI8BFCzR4eRJIbb6/lima-2022-strange-youtube
-[link2]: https://github.com/fernandoleonid/strange-2022
-[link3]: https://fernandoleonid.github.io/strange-2022/****
+[link1]: https://www.figma.com/
+[link2]: https://github.com/
+[link3]: https://github.com/
